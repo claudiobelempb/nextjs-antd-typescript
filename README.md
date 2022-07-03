@@ -4,6 +4,7 @@
 ## dependencies
 
 - yarn add react-redux -S
+- yarn add react-icons -S
 - yarn add react-css-theme-switcher -S
 
 ## devDependencies
